@@ -31,6 +31,10 @@ footer{
 	margin: 250px;
 	margin-left: 400px;
 }
+#about{
+	margin-top: 160px;
+
+}
 
 /*MY hanging animations*/
 @keyframes swinging{
