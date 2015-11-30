@@ -36,7 +36,7 @@ footer{
 
 }
 
-/*MY hanging animations*/
+/*MY hanging animations
 @keyframes swinging{
 0% { transform: rotate(0); }
 5% { transform: rotate(10deg); }
@@ -48,7 +48,7 @@ footer{
 35% { transform: rotate(4deg); }
 40% { transform: rotate(-8deg); }
 45% { transform: rotate(2deg); }
-50% { transform: rotate(0); } /* Come to rest at 50%. The rest is just stillness */
+50% { transform: rotate(0); } /* Come to rest at 50%. The rest is just stillness 
 100% { transform: rotate(0); }
 }
 .swing{
@@ -59,6 +59,7 @@ footer{
 	-moz-transform-origin:50% 0;
 	transform-origin:50% 0;
 }
+*/
 
 /*clouds animations animations*/		
 		.sky {
